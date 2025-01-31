@@ -15,5 +15,5 @@ This project demonstrates how machine learning can be used to predict house pric
 2. Run all cells to see the analysis and predictions.
 
 ## Project Presentation
-You can view and download the project presentation here:  
-[House Price Prediction Presentation](https://github.com/your-username/your-repository-name/blob/main/presentation.pptx)
+You can view and download the project presentation here:
+[House Price Prediction Presentation](https://www.dropbox.com/scl/fi/kdhyl69ofj71p9qs00smi/Forecasting-Real-Estate-Values-with-ML_Vineetha-1.pptx?rlkey=k7nlzph5catkr55sh0xrt83t2&st=in7x5p1z&dl=0)

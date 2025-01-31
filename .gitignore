@@ -14,7 +14,7 @@ env/
 venv/
 
 # Ignore datasets (if large or sensitive)
-*.csv
+# *.csv
 *.xlsx
 
 # Ignore other temporary files
